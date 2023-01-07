@@ -1,0 +1,234 @@
+/* First Part */
+.{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0%;
+    
+}
+
+body{
+    height: 2646px;
+    width: 1600px;
+
+}
+/* banner with image and text */
+.banner {
+    
+    text-align: center;
+    color: white;
+}
+.banner-png{
+    width: 100%;
+}
+
+  
+.banner-text {
+    position: absolute;
+    
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+    
+  }
+.first-heading{
+    
+    color: black;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: end;
+    
+
+}  
+
+.first-section-description{
+    color: #444343;
+    font-style: normal;
+    font-size: 16px;
+    text-align: right; 
+    width: 494px;
+    
+    
+    
+}
+
+button{
+    position: absolute;
+    left: 68%;
+}
+
+.first-button{
+    
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: white;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    border: 0;
+    width: 160px;
+    height: 64px;
+    
+    
+    
+
+}
+                        /* Section-2 */
+.section-2{
+    justify-content: space-between;
+    width: 1072px;
+    font-family: Work Sans; 
+    margin: 130px 250px;
+}
+
+
+
+
+.section-2-text{
+    
+    justify-content: space-between;
+    width: 416px;
+    height: 400px;
+    position: absolute;
+    top: 1210px;
+    left: 1000px;
+   
+    
+
+
+}
+
+.section-2-heading{
+    
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 26px;
+    width: 288px;
+    height: 94px;
+    
+
+
+    line-height: 47px;
+
+}
+.section-2-description{
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 420;
+    text-align: left;
+    margin-bottom:16 ;
+    
+    
+}
+
+.section-2-point{
+    
+    list-style: '\2713';
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 8px;
+    
+
+}
+
+/* My Plans */
+
+
+.my-plans{
+    font-family: Work Sans; 
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 124px;
+    padding: 0px 15px;
+
+ 
+}
+
+.my-plans-title{
+    text-align: center;
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+
+.plans-contaiiner{
+    display: flex;
+    padding: 46px;
+    justify-content: space-around;
+}
+
+
+.plans-title{
+    font-size: 30px;
+    color:black ;
+    font-weight:700 ;
+}
+
+.plans-description{
+    font-size: 25px;
+    color: #737272    ;
+    font-weight:500 ;
+
+}
+/* Rectangular box with gradient effect - section-4  */
+
+.section-4{
+    width: 1140px;
+    height: 300px;
+    font-family: Work Sans;
+    position: absolute;
+    left: 210px;
+    background-image: url("images/watch.png") ;
+    margin: 0;
+    
+    
+    
+}
+
+.section-4-text{
+    position: absolute;
+    top: 59px;
+    left: 64px;
+    bottom: 59px;
+    width: 459px;
+    height: 182px;
+
+}
+.gradient{
+    opacity: 82%;
+}
+
+.section-4-heading{
+    position: absolute;
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+    height: 94px;
+    color: #FFFFFF;
+    bottom: 30px;
+    
+}
+.section-4-button{
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #F15B22;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    border: 0;
+    width: 160px;
+    height: 64px;
+    top: 140px;
+    left: 0px;
+
+    
+}
