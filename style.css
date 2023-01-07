@@ -188,6 +188,8 @@ button{
     left: 210px;
     background-image: url("images/watch.png") ;
     margin: 0;
+    margin-bottom: 200px;
+    
     
     
     
@@ -233,3 +235,117 @@ button{
     
 }
 
+/* Message me */
+.message-me{
+    height: 300px;
+    width: 1140px;
+    left: 210px;
+    top: 2216px;
+
+}
+
+/* Footer */
+.footer{
+    height: 500px;
+    font-family: Work Sans;
+    color: #FFFFFF;
+    background-color: black;
+    margin-top: 430px;
+    padding-left: 210px;
+    padding-bottom: 130px;
+    
+}
+
+.footer-container{
+    position: absolute;
+    left: 230px;
+    padding-top: 100px;
+    padding-bottom: 130px;
+    width: 485px;
+    height: 317px;
+    
+
+}
+
+.footer-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+}
+
+
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    padding-bottom: 16px;
+
+}
+
+.footer-description{
+    padding-bottom: 24px;
+}
+.footer-phone{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+
+.icon2{
+    margin-left: 29px;
+    margin-right: 29px;
+}
+    
+
+/* Footer content 2 */
+
+.footer-content2{
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 800px;
+    top: 115px;
+    
+
+
+}
+.footer-title2{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+}
+.footer-2-input{
+    width: 325px;
+    height: 64px;
+    background-color: black;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-bottom: 1;
+}
+.footer-button{
+    width: 170.11px;
+    height: 64px;
+    color: #F15B22;
+    border-radius: 5px;
+    border-top: 16px;
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    background-color:white;
+    border: 0;
+    padding: 20px 36px;
+    left: auto;
+    
+    
+}
+.footer2-div{
+    padding-top: 16px;
+    
+}
+    
+    
+    
